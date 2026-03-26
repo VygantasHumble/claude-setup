@@ -10,6 +10,12 @@ Personal Claude Code plugin with reusable skills.
 
 ## Installation
 
+1. Add the marketplace (one-time):
 ```
-/plugin install VygantasHumble/claude-setup
+/plugin marketplace add VygantasHumble/claude-setup
+```
+
+2. Install the plugin:
+```
+/plugin install claude-setup@vygantas-claude-setup
 ```
