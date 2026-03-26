@@ -1,6 +1,10 @@
 {
   "name": "vygantas-claude-setup",
   "description": "Personal Claude Code skills by Vygantas",
+  "owner": {
+    "name": "Vygantas",
+    "email": "vygantas@users.noreply.github.com"
+  },
   "plugins": [
     {
       "name": "claude-setup",
