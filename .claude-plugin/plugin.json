@@ -1,0 +1,7 @@
+{
+  "name": "claude-setup",
+  "description": "Personal Claude Code skills: commit prep, PR prep, and Copilot review triage",
+  "author": {
+    "name": "Vygantas"
+  }
+}
