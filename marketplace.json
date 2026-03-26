@@ -1,0 +1,14 @@
+{
+  "name": "vygantas-claude-setup",
+  "description": "Personal Claude Code skills by Vygantas",
+  "plugins": [
+    {
+      "name": "claude-setup",
+      "description": "Personal Claude Code skills: commit prep, PR prep, and Copilot review triage",
+      "source": {
+        "source": "relative",
+        "path": "."
+      }
+    }
+  ]
+}
